@@ -37,7 +37,8 @@ This lists interesting XSS related research published over the past few years.
 
 ### 2019
 * [Gareth Heyes - XSS without parentheses and semi-colons](https://portswigger.net/research/xss-without-parentheses-and-semi-colons)
-* [Michał Bentkowski - Write-up of DOMPurify 2.0.0 bypass using mutation XSS ](https://research.securitum.com/dompurify-bypass-using-mxss/) 
+* [Michał Bentkowski - Write-up of DOMPurify 2.0.0 bypass using mutation XSS ](https://research.securitum.com/dompurify-bypass-using-mxss/)
+* [Michał Bentkowski - Security analysis of \<portal\> element](https://research.securitum.com/security-analysis-of-portal-element/)
 
 ### 2017 
 * [Google - Don’t trust the DOM: Bypassing XSS mitigations via Script gadgets](https://www.blackhat.com/docs/us-17/thursday/us-17-Lekies-Dont-Trust-The-DOM-Bypassing-XSS-Mitigations-Via-Script-Gadgets.pdf)
