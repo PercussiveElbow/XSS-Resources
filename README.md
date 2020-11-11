@@ -12,7 +12,9 @@ I've organised research by year to help give a better understanding of how vario
 * [PortSwigger XSS Labs](https://portswigger.net/web-security/all-labs#cross-site-scripting)
 * [PwnFunction challenges](https://xss.pwnfunction.com/)
 * [Google CTF (Various years)](https://github.com/google/google-ctf)
+* [Google XSS Game](https://xss-game.appspot.com/)
 * [Google Firing Range](https://public-firing-range.appspot.com/)
+* [alf.nu - Alert(1) to win](https://alf.nu/alert1)
 
 ## XSS payloads and cheatsheets
 * [PortSwigger XSS Cheatsheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
